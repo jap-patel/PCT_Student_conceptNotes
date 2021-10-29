@@ -1,3 +1,3 @@
 # PCT_Student_conceptNotes
 
-All the files of the session which included coding will be available here.
+All the coding files and notes of the session which we studied togetherwill be available here.
